@@ -6,3 +6,7 @@
 python hello.py
 python hello.py Alice
 ```
+
+## 参数说明
+
+`hello.py` 接受一个可选的位置参数作为姓名，省略时输出 `Hello, world!`。
