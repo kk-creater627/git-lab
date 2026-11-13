@@ -10,3 +10,8 @@
 - 远程仓库的 clone、push、pull
 - 分支的创建与合并
 - Issue、Star、Fork、Pull Request 协作流程
+
+## 目录结构
+
+- `hello.py`：命令行的问候脚本，可传一个参数作为姓名
+- `docs/usage.md`：使用说明与参数说明
